@@ -53,7 +53,7 @@ export default function Home() {
               <button
                 className="px-4 py-2 border rounded text-sm"
                 onClick={() =>
-                  window.open("https://wa.me/919930528434", "_blank")
+                  window.open("https://wa.me/919967639919", "_blank")
                 }
               >
                 WhatsApp
